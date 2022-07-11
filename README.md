@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ChanKi Kim
-- :eyes: I’m interested in AI, Statistics
-- 🌱 I’m currently learning Data Structure
+- :eyes: I’m interested in AI
+- 🌱 I’m currently learning D
 - :raised_hands: I'm also running a blog (https://cktrace.tistory.com) for knowledge sharing!
 - :sunny: I'll do my best to be a better programmer than yesterday!
 
