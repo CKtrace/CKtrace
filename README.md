@@ -5,7 +5,7 @@
 
 </br>
 
-* ### __💪 I’m interested in AI and I’m currently learning Deep Learning__
+* ### __💪 I’m interested in AI and I’m currently studying Deep Learning__
 </br>
 
 * ### __👨‍💻 IDEA LAB Research Intern (2022-03-14 ~ Present)__
