@@ -12,7 +12,7 @@
     * [Click here to Enter My Blog!](https://cktrace.tistory.com/)
 
 * ### __🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!__
-
+</br>
 
 ### 💌 __Contact Email__
 
