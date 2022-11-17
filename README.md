@@ -3,7 +3,6 @@
 
 ## __🏃‍♂️ Area of Interest and Ongoing Activites 🏃‍♂️__
 
-</br>
 
 * ### __💪 I’m interested in AI and I’m currently studying Deep Learning__
 </br>
@@ -24,9 +23,5 @@
 
 ## 💌 __Contact Email__
 
-</br>
-
-* #### __brandonkimwork@gmail.com__
-
-</br>
+* ### __brandonkimwork@gmail.com__
 
