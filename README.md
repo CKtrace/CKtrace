@@ -11,8 +11,8 @@
 * #### __😃 I'm also running a Blog for knowledge sharing!__
     * [Click here to Enter My Blog!](https://cktrace.tistory.com/)
 
-* ### __🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!__
-</br>
+* #### __🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!__
+
 
 ### 💌 __Contact Email__
 
