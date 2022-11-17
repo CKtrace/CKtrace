@@ -1,5 +1,6 @@
 ## __👋 Hi, I’m ChanKi KIM__
 
+
 ### __🏃‍♂️ Area of Interest and Ongoing Activites 🏃‍♂️__
 
 * #### __💪 I’m interested in AI and I’m currently studying Deep Learning__
@@ -11,6 +12,7 @@
     * [Click here to Enter My Blog!](https://cktrace.tistory.com/)
 
 * ### __🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!__
+
 
 ### 💌 __Contact Email__
 
