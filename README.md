@@ -14,7 +14,7 @@
 * #### __🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!__
 
 
-### 💌 __Contact Email__
+## 💌 __Contact Email__
 
 * __brandonkimwork@gmail.com__
 
