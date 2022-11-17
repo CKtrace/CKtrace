@@ -18,4 +18,15 @@
 
 </br>
 
-* ### __🙋‍♂️ I'll do my best to be a better programmer than yesterday!__
+* ### __🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!__
+
+</br>
+
+## 💌 __Contact Email__
+
+</br>
+
+* #### __brandonkimwork@gmail.com__
+
+</br>
+
