@@ -1,10 +1,21 @@
-- 👋 Hi, I’m ChanKi Kim
-- :eyes: I’m interested in AI
-- 🌱 I’m currently learning Deep Learning
-- :raised_hands: I'm also running a blog (https://cktrace.tistory.com) for knowledge sharing!
-- :sunny: I'll do my best to be a better programmer than yesterday!
+# __👋 Hi, I’m ChanKi KIM__
+</br>
 
-<!---
-CKtrace/CKtrace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## __🏃‍♂️ Area of Interest and Ongoing Activites 🏃‍♂️__
+***
+</br>
+
+* #### __💪 I’m interested in AI and I’m currently learning Deep Learning__
+</br>
+
+* #### __👨‍💻 IDEA LAB Research Intern (2022-03-14 ~ Present)__
+    * [IDEA LAB Official Page](https://sites.google.com/view/idealab-gnu/home) 
+
+</br>
+
+* #### __😃 I'm also running a Blog for knowledge sharing!__
+    * [Click here to Enter My Blog!](https://cktrace.tistory.com/)
+
+</br>
+
+* #### __🙋‍♂️ I'll do my best to be a better programmer than yesterday!__
