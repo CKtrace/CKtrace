@@ -2,7 +2,7 @@
 </br>
 
 ## __🏃‍♂️ Area of Interest and Ongoing Activites 🏃‍♂️__
-***
+
 </br>
 
 * ### __💪 I’m interested in AI and I’m currently learning Deep Learning__
