@@ -38,8 +38,10 @@
 | 2021.03 ~ Present | 컴퓨터공학부 | 학사 | 재학중 |
 
 
-# 💌 Contact Email
-+ __brandonkimwork@gmail.com__
+# Contact
+|Email Address|
+| :----: |
+|__brandonkimwork@gmail.com__|
 
 </br>
 
