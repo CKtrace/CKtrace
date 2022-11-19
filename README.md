@@ -2,17 +2,16 @@
  
 ## 🏃‍♂️ Area of Interest and Ongoing Activites 🏃‍♂️
 
-* #### 💪 I’m interested in AI and I’m currently studying Deep Learning__
+* 💪 I’m interested in AI and I’m currently studying Deep Learning__
 
-* #### 👨‍💻 IDEA LAB Research Intern (2022-03-14 ~ Present)
+* 👨‍💻 IDEA LAB Research Intern (2022-03-14 ~ Present)
     * [IDEA LAB Official Page](https://sites.google.com/view/idealab-gnu/home) 
 
-* #### 😃 I'm also running a Blog for knowledge sharing!
+*  😃 I'm also running a Blog for knowledge sharing!
     * [Click here to Enter My Blog!](https://cktrace.tistory.com/)
 
-* #### 🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!
+* 🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!
 
-</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cktrace&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCKtrace&count_bg=%23E72B2B&title_bg=%23139FDD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -44,4 +43,4 @@
 
 # 💌 Contact Email
 
-brandonkimwork@gmail.com
++ brandonkimwork@gmail.com
