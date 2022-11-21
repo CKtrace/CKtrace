@@ -21,7 +21,7 @@
 
 
 # Paper
-+ Currently Under Review (2 paper)
++ Currently 2 Paper Accepted
 
 
 # Competition
