@@ -25,11 +25,12 @@
 
 
 # Competition
-| Organizer / Host | Competition Name | Ranking |
+| Organizer / Host / Sponsor | Competition Name | Ranking |
 | :------: | :------:| :------:|
 | [DACON] 제주 테크노파크, 제주특별자치도 | [제주도 도로 교통량 예측 AI 경진대회](https://github.com/CKtrace/DACON-Jeju-Island-Road-Traffic-Volume-Prediction-AI-Contest) | 105/712 (Top 15%) |
 | [DACON] DACON | 축구선수의 유망 여부 예측 AI 경진대회 | Under Way |
 | [DACON] 서울시립대학교 | 2022 UOS 빅데이터 알고리즘 경진대회 | Under Way |
+| [DACON] 현대제뉴인 AWS | 건설기계 오일 상태 분류 AI 경진대회 | Under Way |
 
 
 # Education
