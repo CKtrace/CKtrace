@@ -1,7 +1,5 @@
 # __👋 Hi, I’m ChanKi KIM__
  
-* __💪 I’m interested in AI and I’m currently studying Deep Learning__
-
 * __👨‍💻 IDEA LAB Research Intern (2022-03-14 ~ Present)__
     * __[IDEA LAB Official Page](https://sites.google.com/view/idealab-gnu/home)__
 
