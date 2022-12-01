@@ -8,6 +8,7 @@
 
 * __🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!__
 
+</br>
 
 # Project Experience 
 | Period | Affiliation | Projects | Remarks |
