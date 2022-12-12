@@ -9,7 +9,9 @@
 * __🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!__
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKtrace&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKtrace&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 
 # Project Experience 
@@ -25,10 +27,9 @@
 # Competition
 | Organizer / Host / Sponsor | Competition Name | Ranking |
 | :------: | :------:| :------:|
-| [DACON] 제주 테크노파크, 제주특별자치도 | [제주도 도로 교통량 예측 AI 경진대회](https://github.com/CKtrace/DACON-Jeju-Island-Road-Traffic-Volume-Prediction-AI-Contest) | 105/712 (Top 14.7%) |
+| [DACON] 현대제뉴인 AWS | 건설기계 오일 상태 분류 AI 경진대회 | 26/522 (TOP 4.9%) |
 | [DACON] DACON | [축구선수의 유망 여부 예측 AI 경진대회](https://github.com/CKtrace/DACON-Prospect-Soccer-Player-Prediction-AI-Contest) | 13/89 (TOP 14.6%) |
-| [DACON] 서울시립대학교 | 2022 UOS 빅데이터 알고리즘 경진대회 | Under Way |
-| [DACON] 현대제뉴인 AWS | 건설기계 오일 상태 분류 AI 경진대회 | Under Way |
+| [DACON] 제주 테크노파크, 제주특별자치도 | [제주도 도로 교통량 예측 AI 경진대회](https://github.com/CKtrace/DACON-Jeju-Island-Road-Traffic-Volume-Prediction-AI-Contest) | 105/712 (Top 14.7%) |
 
 
 # Education
