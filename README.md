@@ -9,7 +9,7 @@
 * __🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!__
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKtrace&show_icons=true&theme=swift)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKtrace&show_icons=true&theme=swift)](https://github.com/CKtrace)
 
 <br>
 
