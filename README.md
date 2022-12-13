@@ -9,9 +9,7 @@
 * __🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!__
 
 
-
 <br>
-
 
 
 # Project Experience 
@@ -19,10 +17,12 @@
 | :------: | :------: | :------: | :------: |
 | 2022.08 ~ Present | IDEA LAB | Development of AI-based Camouflage Therapy System Exploiting Sustainable Battery Lifecycle Prediction Techniques  | Industry-Academia Collaboration Technolohy Development Project |
 
+<br>
 
 # Paper
 + Currently 2 Paper Accepted
 
+<br>
 
 # Competition
 | Organizer / Host / Sponsor | Competition Name | Ranking |
@@ -31,12 +31,14 @@
 | [DACON] DACON | [축구선수의 유망 여부 예측 AI 경진대회](https://github.com/CKtrace/DACON-Prospect-Soccer-Player-Prediction-AI-Contest) | 13/89 (TOP 14.6%) |
 | [DACON] 제주 테크노파크, 제주특별자치도 | [제주도 도로 교통량 예측 AI 경진대회](https://github.com/CKtrace/DACON-Jeju-Island-Road-Traffic-Volume-Prediction-AI-Contest) | 105/712 (Top 14.7%) |
 
+<br>
 
 # Education
 | Period | Major | Degree | Remarks |
 | :------: | :------: | :------: | :------: |
 | 2021.03 ~ Present | 컴퓨터공학부 | 학사 | 재학중 |
 
+<br>
 
 # Contact
 |Email Address|
