@@ -20,7 +20,12 @@
 <br>
 
 # Paper
-+ Currently 2 Paper Accepted
++ Two Papers Awaiting Online Publication
++ One Paper will be listed in KCI
+
+<br>
+
+_After all processes have been ended, three papers' details will be updated._
 
 <br>
 
