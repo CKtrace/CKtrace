@@ -4,7 +4,7 @@
     * __[IDEA LAB Official Page](https://sites.google.com/view/idealab-gnu/home)__
 
 * __🏃‍♂️ I'm also running a Blog for knowledge sharing!__
-    * __[Click here to Enter My Blog!](https://cktrace.tistory.com/)__
+    * __[Click here to Enter My Blog!](https://cktrace.github.io)__
 
 * __🙋‍♂️ I'll do my best to be a better AI Researcher than yesterday!__
 
