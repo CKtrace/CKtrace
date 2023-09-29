@@ -20,12 +20,12 @@
 <br>
 
 # Paper
-+ Two Papers Awaiting Online Publication
-+ One Paper will be listed in KCI
+| Paper | Remarks |
+| :------: | :------: |
+| 상관관계 기반 특징 감소 기법을 활용한 태아 건강 예측 모델 |  |
+| 멀티모달 데이터 기반 작물 피해 미세 진단 | 2022 한국소프트웨어종합학술대회(KSC2022) 학부생부문 장려상  |
+| 카모플라쥬 치료 시스템을 위한 Sliding Window-LSTM 모델 기반 배터리 잔존 수명 예측 | KCI 등재 |
 
-<br>
-
-_After all processes have been ended, three papers' details will be updated._
 
 <br>
 
