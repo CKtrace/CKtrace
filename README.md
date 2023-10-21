@@ -1,4 +1,6 @@
 # __👋 Hi, I’m ChanKi KIM__
+
+* __Now I am serving in the ARMY (2023-03-13 ~ 2024-09-12)__
  
 * __👨‍💻 IDEA LAB Research Intern (2022-03-14 ~ Present)__
     * __[IDEA LAB Official Page](https://sites.google.com/view/idealab-gnu/home)__
