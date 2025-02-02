@@ -15,7 +15,7 @@
 # Project Experience 
 | Period | Affiliation | Projects | Remarks |
 | :------: | :------: | :------: | :------: |
-| 2022.08 ~ Present | IDEA LAB | Development of AI-based Camouflage Therapy System Exploiting Sustainable Battery Lifecycle Prediction Techniques  | Industry-Academia Collaboration Technolohy Development Project |
+| 2022.08 ~ 2023.01 | IDEA LAB | Development of AI-based Camouflage Therapy System Exploiting Sustainable Battery Lifecycle Prediction Techniques  | Industry-Academia Collaboration Technolohy Development Project |
 
 <br>
 
