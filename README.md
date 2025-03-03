@@ -32,7 +32,7 @@
 # Competition
 | Organizer / Host / Sponsor | Competition Name | Ranking |
 | :------: | :------:| :------:|
-| [DACON] DACON | [전기차 가격 예측 해커톤: 데이터로 EV를 읽다!](https://dacon.io/competitions/official/236424/overview/description) | 3/849 (최종 2등 수상) (Top 0.3%) |
+| [DACON] DACON | [전기차 가격 예측 해커톤: 데이터로 EV를 읽다!](https://dacon.io/competitions/official/236424/overview/description) | 2/849 (최종 2등 수상) (Top 0.3%) |
 | [DACON] 현대제뉴인 AWS | [건설기계 오일 상태 분류 AI 경진대회](https://github.com/CKtrace/DACON-Construction-Equipment-Oil-Condition-Classification-AI-Contest) | 21/517 (TOP 4.1%) |
 | [DACON] DACON | [축구선수의 유망 여부 예측 AI 경진대회](https://github.com/CKtrace/DACON-Prospect-Soccer-Player-Prediction-AI-Contest) | 13/89 (TOP 14.6%) |
 | [DACON] 제주 테크노파크, 제주특별자치도 | [제주도 도로 교통량 예측 AI 경진대회](https://github.com/CKtrace/DACON-Jeju-Island-Road-Traffic-Volume-Prediction-AI-Contest) | 105/712 (Top 14.7%) |
